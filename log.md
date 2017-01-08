@@ -32,3 +32,10 @@ N/A
 **Link(s) to work**
 1. [Search and  Replace](https://github.com/xdavipereira/free-code-camp-algorithms/tree/master/search-and-replace)
 
+### Day 5: January 07, Saturday
+
+**Today's Progress**: I finisshed the book You Don't Now JS: this & Object Prototype 
+
+**Link(s) to work**
+1. N/A
+
