@@ -45,3 +45,9 @@ N/A
 
 **Link(s) to work**
 1. N/A
+
+### Day 7: January 11, Saturday
+
+**Today's Progress**: I read the chapter about Async from the book You Don't Now JS: Async & Promises
+**Link(s) to work**
+1. N/A
